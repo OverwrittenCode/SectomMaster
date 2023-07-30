@@ -174,7 +174,7 @@ const testSubject = {
 	},
 	createdAt: "2022-01-01T00:00:00.000Z",
 	updatedAt: "2022-01-01T00:00:00.000Z",
-	__v: 0
+	__v: 2
 };
 
 logger.info("Test subject", testSubject);
